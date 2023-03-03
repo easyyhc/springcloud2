@@ -5,7 +5,7 @@ spring:
   application:
     name: provider-server
 
-servermsg: provider-server-11000
+servermsg: provider-server-11000aaaa
 
 #eureka配置
 eureka:
